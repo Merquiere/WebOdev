@@ -1,0 +1,14 @@
+body{
+	font-family: Arial;
+	font-size: 14px
+	}
+
+/* HEADER */
+header{
+	background-color: F2F5F4;
+	padding: 10px;
+}
+header .logo {
+	width: 50px;
+	margin: 0 auto;
+}

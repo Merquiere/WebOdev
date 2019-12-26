@@ -1,0 +1,7 @@
+var sayac=0;
+function sepet(){
+    sayac++;
+	document.getElementById("sepet_sayi").innerHTML=sayac;
+	window.alert("Ürün Sepete Eklendi")
+}
+	

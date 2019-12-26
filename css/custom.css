@@ -1,0 +1,96 @@
+	/* background: url(img/arkaplan.jpg); */
+
+body{
+	font-family: Arial;
+	font-size: 14px;
+
+	}
+	
+.clear {
+	clear: both;
+}
+.container {
+	width: 1000px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	overflow: hidden;
+
+}
+
+/* HEADER */
+header{
+	background-color: gray;
+	padding: 10px;
+}
+header .logo {
+	width: 50px;
+	margin: 10px auto;
+	color: dark blue;
+	font-size: 24px;
+	}
+header nav ul {
+	    width: auto;
+	margin: 123px 0;
+}
+header nav ul li { 
+	float: left;
+	padding: 10px;
+}
+header nav ul li a {
+	color: white;
+}
+header nav ul li a:hover {
+	color: red;
+}
+/* SLIDER */
+.slider {
+	height: 400px;
+	background-size: cover;
+	position: relative;
+}
+.slider p.text {
+	position: absolute;
+	top: 5%;
+	left: 40%;
+	transform: translate (-50%,-50%);
+	font-size: 30px;
+	text-align: center;
+    color: gray;
+	text-shadow: 1px 1px 1px black;
+}
+ .box {
+    width:25%;
+	height:auto;
+	float: left;
+	margin-left:79px;
+	margin-top:35px;
+	border:solid 2px black;
+}
+.img{width:100%; height:200px;}
+.title{width:100%; height:50px; background-color:gray;}
+.price{width:100%; height:50px; background-color:red;}
+.marka{font-family:Arial; font-size:21px; color:black;text-align:center;  line-height:50px;}
+.fiyat{font-family:Arial; font-size:16px; text-align:center; line-height:50px;}
+.logo1{float:left; width:330px; height:150px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
